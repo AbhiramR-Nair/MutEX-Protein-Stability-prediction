@@ -1,0 +1,23 @@
+# Ignore data
+data/raw/
+data/processed/
+
+# Ignore models
+*.pth
+*.ckpt
+*.h5
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
