@@ -173,13 +173,13 @@ Although Model-2 sacrifices a small amount of raw error performance, it is the *
 
 ## Team Contributions
 
-* **Data Collection, Cleaning, and EDA:** Teammate
+* **Data Collection, Cleaning, and EDA:** MS Meenakshi 
 
   * Dataset acquisition and validation
   * Cleaning and preprocessing
   * Exploratory data analysis and bias assessment
 
-* **Embedding Extraction and Model Training:** Abhiram
+* **Embedding Extraction and Model Training:** Abhiram R
 
   * PLM embedding pipeline
   * Feature engineering
