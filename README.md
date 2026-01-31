@@ -205,6 +205,7 @@ Mega-scale experimental analysis of protein folding stability.
 Zenodo Dataset.
 * H. Dieckhaus,M. Brocidiacono,N.Z. Randolph, & B. Kuhlman,  Transfer learning to leverage larger datasets for improved prediction of protein stability changes,
 Proc. Natl. Acad. Sci. U.S.A. 121 (6) e2314853121, https://doi.org/10.1073/pnas.2314853121 (2024).
+* Lin, Z., Akin, H., Rao, R., Hie, B., Zhu, Z., Lu, W., ... & Rives, A. (2023). Evolutionary-scale prediction of atomic-level protein structure with a language model. Science, 379(6637), 1123-1130. doi.org
 
 ---
 
